@@ -7,6 +7,6 @@ public class Add
 		int b=20;
 		int sum=a+b;
 		System.out.println("sum of"+sum);
-		
+		System.out.println("multiple of");
 	}
 }
